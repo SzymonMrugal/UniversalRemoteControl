@@ -1,4 +1,4 @@
-"# UniversalRemoteControl" 
+# UniversalRemoteControl
 
 This is virtual remote control device.
 It controls radios and TVs (virtual) with help of RMI technology.
